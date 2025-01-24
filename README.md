@@ -46,13 +46,6 @@ website.</li>
         <li><strong>CSS:</strong> For styling, layout adjustments, and responsive designs.</li>
     </ul>
 
-<h2> How to View the Project </h2>
- 
- <p>1. Clone this repository to your local machine:
- 
- </p>
-    <pre><code>git clone https://github.com/your-username/netflix-clone.git</code></pre>
-    <p>2. Open the <code>index.html</code> file in your browser.</p>
 
 <h2>Future Improvements</h2>
  
